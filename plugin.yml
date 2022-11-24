@@ -1,0 +1,5 @@
+name: IPBlocker
+version: '1.0-SNAPSHOT'
+main: main.quanthicctech.deptrai.Main
+authors: [ QuanThiccTech ]
+description: Only domain name access to server.
